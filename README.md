@@ -6,8 +6,6 @@ I believe that the material in this repository will easily be adapted for an adv
 
 Please refer to the links below for textbooks and to the state of the art codes. This is currently a work in progress which requires more attention especially on the QMC side. 
 
-# Downloading qmc-dft-python
-git clone  https://github.com/mustafaalsalmi1999/QMC-DFT-calculator-Python/QMC-DFT-calculator-Python.git
 
 # References
 ## DFT
