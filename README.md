@@ -8,6 +8,7 @@ Please refer to the links below for textbooks and to the state of the art codes.
 
 # Downloading qmc-dft-python
 git clone https://github.com/kayahans/qmc-dft-python.git
+          https://github.com/mustafaalsalmi1999/QMC-DFT-calculator-Python/.git
 
 # References
 ## DFT
