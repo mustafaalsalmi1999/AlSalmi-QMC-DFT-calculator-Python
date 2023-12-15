@@ -1,10 +1,16 @@
-# qmc-dft-python
+#  AlSalmi-dft-python
 
-QMC-DFT-Python is a lightweight open-source code for scientists and enthusiasts to understand the basic concepts behind the implementations of most popular electronic structure calculation method: Density Functional Theory (DFT) and also quantum Monte carlo (QMC).
+Alsalmi-DFT-Python is your open-source gateway to understanding the fundamental concepts behind two powerful electronic structure calculation methods: Density Functional Theory (DFT) and Quantum Monte Carlo (QMC). This lightweight code is designed for accessibility and clarity, making it the perfect tool to:
 
-I believe that the material in this repository will easily be adapted for an advanced undergraduate scientific computation course with enhanced discussions. There are various memory and performance considerations in the code, but they are kept very minimal at this stage to focus on concepts.
+#Grasp the core principles of DFT and QMC, the workhorses of modern materials science and chemistry.
+#Gain hands-on experience with practical implementations of these techniques.
+#Explore the inner workings of electronic structure calculations, from basic formulas to real-world applications.
 
-Please refer to the links below for textbooks and to the state of the art codes. This is currently a work in progress which requires more attention especially on the QMC side. 
+Why QMC-DFT-Python?
+
+#Focus on understanding: Code complexity is kept minimal, prioritizing conceptual clarity over advanced features.
+#Perfect for learning: Ideal for an advanced undergraduate scientific computing course, fostering deeper discussions and practical insights.
+#Open-source and evolving: Contribute to the project, share your knowledge, and shape the future of the code.
 
 
 # References
