@@ -11,7 +11,9 @@ AlSalmi-DFT-QMC-Python is your open-source gateway to understanding the fundamen
 Why QMC-DFT-Python?
 
 1-Focus on understanding: Code complexity is kept minimal, prioritizing conceptual clarity over advanced features.
+
 2-Perfect for learning: Ideal for an advanced undergraduate scientific computing course, fostering deeper discussions and practical insights.
+
 3-Open-source and evolving: Contribute to the project, share your knowledge, and shape the future of the code.
 
 
