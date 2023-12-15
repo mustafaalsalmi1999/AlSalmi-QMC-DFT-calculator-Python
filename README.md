@@ -1,4 +1,4 @@
-#  AlSalmi-dft-python
+#  AlSalmi-DFT-python
 
 Alsalmi-DFT-Python is your open-source gateway to understanding the fundamental concepts behind two powerful electronic structure calculation methods: Density Functional Theory (DFT) and Quantum Monte Carlo (QMC). This lightweight code is designed for accessibility and clarity, making it the perfect tool to:
 
