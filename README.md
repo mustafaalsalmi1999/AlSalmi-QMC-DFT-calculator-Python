@@ -16,3 +16,4 @@ Why QMC-DFT-Python?
 
 3-Open-source and evolving: Contribute to the project, share your knowledge, and shape the future of the code.
 
+![AlSalmi QMC logo_page-0001](https://github.com/mustafaalsalmi1999/AlSalmi-QMC-DFT-calculator-Python/assets/98915585/ff1f7c36-0afd-44f5-8174-1ddb60c44470)
